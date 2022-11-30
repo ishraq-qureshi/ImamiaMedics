@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T12:38:32.263Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TAPqfMagEG5U46H6i7oF" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T05:59:00.657Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2hlP14rPK1D6S-KVaD2m" version="20.6.0" type="github">
   <diagram id="TGMrhTtlNdpNYge5avS7" name="Page-1">
-    <mxGraphModel dx="3365" dy="2148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3Dl36m4TURkiMDlty7MA-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3Dl36m4TURkiMDlty7MA-16" target="3Dl36m4TURkiMDlty7MA-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="55" />
+              <mxPoint x="215" y="55" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-16" value="imiportal_2_20122021" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="130" width="210" height="936" as="geometry" />
+          <mxGeometry x="115" y="130" width="210" height="936" as="geometry" />
         </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-17" value="Languages" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="3Dl36m4TURkiMDlty7MA-16" vertex="1">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -122,9 +122,9 @@
         <mxCell id="3Dl36m4TURkiMDlty7MA-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3Dl36m4TURkiMDlty7MA-52" target="3Dl36m4TURkiMDlty7MA-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="520" />
-              <mxPoint x="650" y="520" />
-              <mxPoint x="650" y="442" />
+              <mxPoint x="665" y="520" />
+              <mxPoint x="735" y="520" />
+              <mxPoint x="735" y="442" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -137,17 +137,14 @@
         <mxCell id="3Dl36m4TURkiMDlty7MA-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Dl36m4TURkiMDlty7MA-52" target="3Dl36m4TURkiMDlty7MA-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Dl36m4TURkiMDlty7MA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Dl36m4TURkiMDlty7MA-52" target="3Dl36m4TURkiMDlty7MA-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-52" value="Imami Medics International" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="39" width="330" height="31" as="geometry" />
+          <mxGeometry x="355" y="39" width="330" height="31" as="geometry" />
         </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3Dl36m4TURkiMDlty7MA-62" target="3Dl36m4TURkiMDlty7MA-83" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="365" y="660" />
-              <mxPoint x="365" y="689" />
+              <mxPoint x="450" y="660" />
+              <mxPoint x="450" y="689" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,13 +152,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-62" value="Conferences Imami Medics" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="640" width="270" height="31" as="geometry" />
+          <mxGeometry x="575" y="640" width="270" height="31" as="geometry" />
         </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Dl36m4TURkiMDlty7MA-31" target="3Dl36m4TURkiMDlty7MA-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-31" value="imi_conf_restore2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="39" width="160" height="442" as="geometry" />
+          <mxGeometry x="765" y="39" width="160" height="442" as="geometry" />
         </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-33" value="Abstract Submission" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="3Dl36m4TURkiMDlty7MA-31" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -214,19 +211,19 @@
         <mxCell id="3Dl36m4TURkiMDlty7MA-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Dl36m4TURkiMDlty7MA-81" target="3Dl36m4TURkiMDlty7MA-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="793" />
-              <mxPoint x="900" y="442" />
+              <mxPoint x="985" y="793" />
+              <mxPoint x="985" y="442" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3Dl36m4TURkiMDlty7MA-81" value="JMI MIVU" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="777.5" width="270" height="31" as="geometry" />
+          <mxGeometry x="575" y="777.5" width="270" height="31" as="geometry" />
         </mxCell>
         <mxCell id="8xp-wAQg8P9_rVjA91A0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8xp-wAQg8P9_rVjA91A0-1" target="3Dl36m4TURkiMDlty7MA-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8xp-wAQg8P9_rVjA91A0-1" value="jimi_mivu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="870" width="210" height="416" as="geometry" />
+          <mxGeometry x="365" y="870" width="210" height="416" as="geometry" />
         </mxCell>
         <mxCell id="8xp-wAQg8P9_rVjA91A0-3" value="Sessions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8xp-wAQg8P9_rVjA91A0-1">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
