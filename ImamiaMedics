@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T13:03:52.057Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MPOJutzXMsy2Pwwm65YE" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-02T13:05:48.050Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1PWKkEufwSSCpftqO2lL" version="20.6.0" type="github" pages="2">
   <diagram id="TGMrhTtlNdpNYge5avS7" name="Architecture Diagram">
     <mxGraphModel dx="1122" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -280,7 +280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jzeaQg5tCjjtU20aGvgH" name="imi_conf_restore2">
-    <mxGraphModel dx="1346" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1584" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -602,7 +602,7 @@
         <mxCell id="8eWwwPj6Kre_8pctcbSG-2" value="tb_maintain_logs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8eWwwPj6Kre_8pctcbSG-1">
           <mxGeometry y="30" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8eWwwPj6Kre_8pctcbSG-3" value="Description" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="8eWwwPj6Kre_8pctcbSG-3" value="Error Logs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="760" y="210" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AJV_TrqIwokBX3qqTHC9-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Site Settings (2 Tables)&lt;/span&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -685,6 +685,9 @@
         </mxCell>
         <mxCell id="iy6AZxcv9RDJdIw5rcvU-4" value="Data related to conferences" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="790" y="1610" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iy6AZxcv9RDJdIw5rcvU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rpQBQScVxYHls0dQTRpu-1" target="HuprgZIJYtCwtNdao4CT-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
